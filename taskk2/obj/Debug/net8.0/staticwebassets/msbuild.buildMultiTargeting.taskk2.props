@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\taskk2.props" />
+</Project>

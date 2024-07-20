@@ -1,0 +1,6 @@
+@taskk2_HostAddress = http://localhost:5144
+
+GET {{taskk2_HostAddress}}/User/
+Accept: application/json
+
+###
